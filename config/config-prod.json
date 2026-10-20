@@ -1,0 +1,4 @@
+{
+  "host": "prod",
+  "apiUrl": "https://prod-api.example.com"
+}
